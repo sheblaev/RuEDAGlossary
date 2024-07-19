@@ -1,0 +1,165 @@
+Рекомендуемые переводы для используемых терминов
+(файл для переводoв  **GPFR/etc/Sirius_ru_RU.ts**)
+_Желательно поддерживать алфавитный порядок_ 
+- Area Площадь
+- Axis      Ось
+- Block 
+- Blockage  Запретная область
+ 
+- Boundary Граница
+ 
+- Bounding box
+ 
+- Breaker
+ 
+- Buffer Буфер
+ 
+- Bump  Контактная площадка
+ 
+- Capacity Емкость, Вместимость
+ 
+- Cell Библиотечная ячейка
+ 
+- Clock   Тактовый сигнал, Синхросигнал, Тактирующий сигнал
+ 
+- ClockGate  Прерыватель синхросигнала
+ 
+- Column Столбец
+ 
+- Congestion   Кучность, Плотность (размещения, трассировки)
+ 
+- Consumption Потребление
+ 
+- Core   Ядро, Центральная часть
+- Core filler
+ 
+- Cut   Межслойный контакт, межсоединение
+ 
+- Cut layer   
+ 
+- Delay Задержка
+ 
+- Direction Направление
+- Design Проект
+ 
+- Dog bone length
+ 
+- Dog bone width
+ 
+- Effort   Трудоемкость
+ 
+- Electromigration Электромиграция
+ 
+- Estimation  Оценка
+- Export Экспорт
+ 
+- Fanout   Входной контакт?   Разветвление
+- Fast liberty
+ 
+- FeedThru Проходной
+ 
+- Filler   Заполняющий элемент
+ 
+- Flip    Отражение, Обращение
+ 
+- Flip-flop  Триггер 
+- Floorplanner   Планировщик чипа
+ 
+- Flyline   Нить, луч
+- Frame Кадр, каркас, структура
+ 
+- Grid  Сетка
+ 
+- Ground Земля
+ 
+- Hookup  Подсоединение
+- Import Импорт 
+ 
+- Inverter Инвертор
+- IO order
+ 
+- IR-drop Падение напряжения
+ 
+- Isolation
+ 
+- Jog   Ступенька
+ 
+- Keepin Ограничивающая область
+ 
+- Keepout Запрещенная область
+ 
+- Latch Защёлка
+ 
+- Lattice Решетка
+ 
+- Layer Слой
+ 
+- Leaf Лист
+ 
+- Legalize Легализовать
+ 
+- Level Уровень
+ 
+- LevelShifter Преобразователь Напряжения
+
+- Manhole
+ 
+- Net Цепь
+- Noise
+ 
+- Obstruction Запрет
+ 
+- Optimize Оптимизация
+ 
+- Overlap Перекрытие, пересечение
+ 
+- Permutation Перестановка
+ 
+- Pin Вывод компонента
+- Pin of net
+ 
+- Pitch  Минимальный шаг линейных размеров
+ 
+- Placement  Размещение
+- Placer  
+ 
+- Power Питание, Мощность 
+ 
+- Rail    Горизонтальная Шина питания
+- RC mapping
+ 
+- Region Область
+ 
+- Ring Огибающий контур
+ 
+- Row      Колонка  или столбец, зависит от поворота.  Область для размещения элементов
+ 
+- SBlock
+ 
+- Signal Сигнал
+- Slack  Отставание сигнала, Запаздывание
+ 
+- Slope  Наклон
+- Slow liberty
+ 
+- Slotted connection
+ 
+- Steiner tree Дерево Штейнера
+ 
+- Stripe  Вертикальная Шина 
+- Switching Activity
+ 
+- TieLow  Замыкание на Земля
+ 
+- TieHi Замыкание на Питание
+ 
+- Threshold Порог
+ 
+- Timing   Временные характеристики
+ 
+- Unroute   Незавершенная часть трассы, Пропуск
+ 
+- Via Переходное соединение, Перемычка между слоями, Межслойный переход.
+ 
+- Voltage Island   Область спец. Питания
+ 
